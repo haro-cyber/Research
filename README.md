@@ -3,9 +3,9 @@
 論文まとめ。
 projectsにまとめる。
 
-Knowledge Distillation
+* Knowledge Distillation
 
-Metric Learning
+* Metric Learning
 
-Recommendation
+* Recommendation
 
